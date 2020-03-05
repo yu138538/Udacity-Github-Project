@@ -1,18 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+March 02, 2003
 
 ### Project Title
-Replace the Project Title
+Udacity Github Project
+
 
 ### Description
-Describe what your project is about and what it does
+This project is an excercise in the use of uploading and commiting files from Git Bash to Github
 
 ### Files used
-Include the files used
+.gitignore
+README.md
+bikeshare.py
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This file is cloned from https://github.com/udacity/pdsnd_github
 
 update 1
-refactoring update
